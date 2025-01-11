@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "HummerBox",
   "resources": {
-    "hash": "sha256-QeB+Vd59iRd5c82meZo7+1owPRgWz1yLvnfkmSihQJY=",
+    "hash": "sha256-kKUhMDCReccHXno3UcGF/8FmfwZgaeW0pMoQ8MmbahE=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "HummerBox.wasm": "sha256-61DIonwgFNN4VPqlfdpGoMc9F+KmAWGZLE4nO6S4DsY=",
+      "HummerBox.wasm": "sha256-HPCtmjwJ8I8W5M/5OanYfhLU94u+FPbkkJnJFudKXiU=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-CS8CQtrDJ7OniJx5m3AU1sb/CL1dIP13ZyVBGhMjk0U=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-vbmhR3SSHxQ7d2rRoVmpYplGgf5f0NGZK4xeg+ufpME=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-QQOcBDu5Rl/lLCWkwHn7BGdAtS9Eg1Qbafc/mUV3kKU=",
